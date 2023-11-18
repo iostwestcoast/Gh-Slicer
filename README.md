@@ -1,2 +1,2 @@
 # Gh-Slicer
-Gh Slicer and non-planar layers
+Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
