@@ -1,7 +1,7 @@
 # Gh-Slicer
 Modelling of the milling process and creation of a slicer for non-planar surfaces with subsequent milling and porcelain printing
 
-The following programmes were used in this work: Rhino7, Grasshopper 3D, Autodesk ArtCAM
+The following programmes were used in this work: Rhino7 + Grasshopper 3D, Autodesk ArtCAM
 
 Wavy surface model 
 
