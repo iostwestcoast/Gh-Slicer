@@ -27,3 +27,6 @@ Final result after porcelain drying
 
 ![photo_2023-11-19_01-41-54 (2)](https://github.com/iostwestcoast/Gh-Slicer/assets/114690482/8f6a9574-6d8f-4483-97e8-a7711f3096dd)
 
+Wave surface model of English porcelain after baking
+
+![photo_2023-12-12_12-17-25](https://github.com/iostwestcoast/Gh-Slicer/assets/114690482/e7655c00-2b32-4fc9-80c4-b26e9ea43c1e)
